@@ -1,0 +1,29 @@
+@charset="UTF-8";
+
+body{
+    background-image: url("imagens/Fil.png");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position-x: -330px;
+}
+
+h1#a{
+	text-align:center;
+	color: rgb(255, 72, 0);
+	text-shadow: 1px 1px 0px rgb(0, 0, 0);
+	font-size: 45pt;
+}
+h2#b{
+	text-align: center;
+	color: rgb(0, 0, 0);
+	text-shadow: 1px 1px 0px rgb(0, 0, 0);
+	font-size: 30pt;
+}
+h2#c{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	text-shadow: 1px 1px 0px rgb(0, 0, 0);
+}
+figure.jooj{
+    margin-left: 600px;
+}

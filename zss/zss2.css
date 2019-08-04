@@ -1,0 +1,27 @@
+@charset="UTF-8";
+
+body{
+	background-image: url("imagens/Inglês.png");
+
+}
+
+h1#baab{
+	text-align:center;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	font-size: 45px;
+}
+h2#abba{
+	text-align: center;
+	color: red;
+	text-shadow: 1px 1px 5px black;
+	font-size: 30px;
+}
+h2#aaa{
+	text-align:center;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+figure.kaak{
+	margin-left: 300px;
+}

@@ -1,0 +1,28 @@
+@charset="UTF-8";
+
+body{
+	background-image: url("imagens/FI.png");
+}
+
+h1#mil{
+	text-align:center;
+	color: lightpink;
+	text-shadow: 1px 1px 1px black;
+	font-size: 45pt;
+}
+h2#zap{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+	font-size: 30pt;
+}
+
+h2#zop{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+figure.jaaj{
+	margin-left:500px;
+	margin-top: -200px;
+}

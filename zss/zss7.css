@@ -1,0 +1,26 @@
+@charset="UTF-8";
+
+body{
+	background-image: url("imagens/Mat.png");
+}
+
+h1#a{
+	text-align:center;
+	color: rgb(239, 255, 91);
+	text-shadow: 5px 5px 15px black;
+	font-size: 45pt;
+}
+h2#b{
+	text-align: center;
+	color: rgb(255, 0, 0);
+	text-shadow: 5px 5px 15px whitesmoke;
+	font-size: 30pt;
+}
+h2#c{
+	text-align: center;
+	color: rgb(255, 0, 0);
+	text-shadow: 5px 5px 15px whitesmoke;
+}
+figure.jooj{
+    margin-left: 150px;
+}

@@ -1,0 +1,29 @@
+@charset="UTF-8";
+
+body{
+    background-image: url("imagens/Fis.png");
+    background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: center;
+}
+
+h1#a{
+	text-align:center;
+	color: rgb(0, 255, 234);
+	text-shadow: 1px 1px 15px rgb(255, 255, 255);
+	font-size: 45pt;
+}
+h2#b{
+	text-align: center;
+	color: rgb(0, 0, 0);
+	text-shadow: 1px 1px 15px rgb(255, 255, 255);
+	font-size: 30pt;
+}
+h2#c{
+	text-align: center;
+	color: rgb(0, 0, 0);
+	text-shadow: 1px 1px 15px rgb(255, 255, 255);
+}
+figure.jooj{
+    margin-left: 349px;
+}

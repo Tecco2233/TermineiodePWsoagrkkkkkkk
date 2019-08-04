@@ -1,0 +1,29 @@
+@charset="UTF-8";
+
+body{
+	background-image: url("imagens/TPA.png");
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: center;
+}
+
+h1#mil{
+	text-align:center;
+	color: orange;
+	text-shadow: 1px 1px 1px black;
+	font-size: 45pt;
+}
+h2#ta{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+	font-size:30pt;
+}
+h2#tequebra{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+figure.jooj{
+	margin-left: 300px;
+}

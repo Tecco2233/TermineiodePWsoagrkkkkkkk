@@ -1,0 +1,26 @@
+@charset="UTF-8";
+
+body{
+	background-image: url("imagens/Pw.png");
+}
+
+h1#a{
+	text-align:center;
+	color: lightpink;
+	text-shadow: 1px 1px 1px black;
+	font-size: 45px;
+}
+h2#b{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+	font-size: 30px;
+}
+h2#c{
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+figure.d{
+	margin-left: 300px;
+}
